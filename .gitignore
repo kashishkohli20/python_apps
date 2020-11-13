@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local files
+.DS_Store
+.vscode/
+birthday_countdown/.DS_Store
+web scraping/.vscode/
+web scraping/Pipfile
+web scraping/Pipfile.lock
+web scraping/googlemaps
