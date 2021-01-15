@@ -131,6 +131,7 @@ dmypy.json
 # local files
 .DS_Store
 .vscode/
+.idea/
 birthday_countdown/.DS_Store
 web scraping/.vscode/
 web scraping/Pipfile
